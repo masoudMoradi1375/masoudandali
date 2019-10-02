@@ -21,6 +21,13 @@ function sayeHello($name){
 }
 
 
+function masoud(){
+	
+	echo 'masoud';
+	
+}
+
+
 
 
 
