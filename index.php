@@ -11,6 +11,16 @@ function multi($x,$y){
 }
 
 
+echo sayeHello('maosud');
+
+
+function sayeHello($name){
+	
+	return 'hello '.$name;
+	
+}
+
+
 
 
 
