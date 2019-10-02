@@ -37,4 +37,9 @@ function sum($x , $y){
 echo sum(4,6);
 
 
+
+
+
+
+echo "masoud salam";
 ?>
