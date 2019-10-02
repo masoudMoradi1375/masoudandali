@@ -12,7 +12,12 @@ function multi($x,$y){
 
 
 
+function sum($x , $y){
+	return $x + $y;
+}
 
+
+echo sum(4,6);
 
 
 ?>
