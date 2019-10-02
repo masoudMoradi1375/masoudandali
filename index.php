@@ -29,7 +29,12 @@ function masoud(){
 
 
 
+function sum($x , $y){
+	return $x + $y;
+}
 
+
+echo sum(4,6);
 
 
 ?>
